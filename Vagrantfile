@@ -8,7 +8,8 @@ cookbooks=[
   "chef-systemc",
   "chef-greenlib",
   "chef-fdt",
-  "chef-qemu"
+  "chef-qemu",
+  "chef-arm-a15-linux-sample"
 ];
 
 versions = "versions";
