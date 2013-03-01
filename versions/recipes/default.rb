@@ -14,6 +14,7 @@ package "gcc-4.4"
 package "g++-4.4"
 package "gcc-4.7"
 package "g++-4.7"
+package "gdb"
 package "build-essential"
 
 
@@ -41,6 +42,8 @@ package "bison"
 package "libncurses5-dev"
 package "libglib2.0-dev"
 package "libpixman-1-dev"
+package "eclipse-cdt"
+package "libsdl-dev"
 
 
 
