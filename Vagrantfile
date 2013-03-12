@@ -9,7 +9,8 @@ cookbooks=[
   "chef-greenlib",
   "chef-fdt",
   "chef-qemu",
-  "chef-arm-a15-linux-sample"
+  "chef-arm-a15-linux-sample",
+  "chef-eclipse"
 ];
 
 versions = "versions";

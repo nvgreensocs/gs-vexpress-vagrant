@@ -25,3 +25,6 @@
 [submodule "cookbooks/chef-arm-a15-linux-sample"]
 	path = cookbooks/chef-arm-a15-linux-sample
 	url = git@projects.greensocs.com:chef-scripts/chef-arm-a15-linux-sample.git
+[submodule "cookbooks/chef-eclipse"]
+	path = cookbooks/chef-eclipse
+	url = git://projects.greensocs.com/chef-scripts/chef-eclipse.git

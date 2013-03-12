@@ -42,7 +42,6 @@ package "bison"
 package "libncurses5-dev"
 package "libglib2.0-dev"
 package "libpixman-1-dev"
-package "eclipse-cdt"
 package "libsdl-dev"
 
 
