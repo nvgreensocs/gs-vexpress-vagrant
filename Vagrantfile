@@ -7,14 +7,15 @@ require "#{pwd}/GSProject/GSVagrantfile.rb"
 cookbooks=[
   "chef-systemc",
   "chef-greenlib",
-  "chef-fdt",
-  "chef-qemu"
+  "chef-qemu",
+  "chef-arm-a15-linux-sample",
+  "chef-eclipse"
 ];
 
 versions = "versions";
 toplevel = "toplevel";
 
-memory = "2048";
+memory = "4096";
 
 box = "GreenSocsBaseMachine32Bit15Jan13"
 #box = "GreenSocsBaseMachine64Bit28Jan13"
