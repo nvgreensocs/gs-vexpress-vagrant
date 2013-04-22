@@ -66,6 +66,7 @@ package "libsdl-dev"
 
 package "device-tree-compiler"
 package "libfdt-dev"
+package "libcap-dev"
 
 package "default-jre"
 package "gdb"
